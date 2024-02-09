@@ -1,2 +1,2 @@
 # Oluebube01.github.io
-Frontend Deveveloper
+This is my professional portfolio in the making.
